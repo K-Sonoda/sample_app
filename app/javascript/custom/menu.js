@@ -1,5 +1,3 @@
-// メニュー操作
-
 // トグルリスナーを追加する
 function addToggleListener(selected_id, menu_id, toggle_class) {
   let selected_element = document.querySelector(`#${selected_id}`);
